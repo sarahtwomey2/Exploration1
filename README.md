@@ -1,2 +1,1 @@
-# Hello-World
-demonstration hello world app.
+CS4830 Exploration 1
